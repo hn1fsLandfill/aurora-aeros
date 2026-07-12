@@ -40,4 +40,5 @@ git clone --depth=1 https://gitgud.io/wackyideas/aerothemeplasma.git aerothemepl
 )
 echo "cleaning up"
 rm -rf aerothemeplasma
-dnf5 -y remove $DEVEL_PKGS
+# keep shit for now cuz it removed a bunch of shit
+#dnf5 -y remove $DEVEL_PKGS
